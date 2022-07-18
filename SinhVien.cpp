@@ -50,5 +50,6 @@ int main()
         for(SinhVien x:mp[s])
             cout<<x;
     }
+    cout<<"second";
     return 0;
 }
